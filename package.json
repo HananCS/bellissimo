@@ -1,0 +1,37 @@
+{
+    "name": "bellissimo",
+    "displayName": "bellissimo",
+    "description": "A VS Code Theme Extension",
+    "version": "0.0.1",
+    "publisher": "benhanansubendran",
+    "icon": "images/logo.png",
+    "author": {
+        "name": "Ben Hanan Subendran",
+        "email": "benhanan.subendran@gmail.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/hanancs/vscode"
+    },
+    "engines": {
+        "vscode": "^1.58.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "Themes",
+        "Dark Theme",
+        "color-theme",
+        "bellisimo"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "bellissimo",
+                "uiTheme": "vs-dark",
+                "path": "./themes/bellissimo-color-theme.json"
+            }
+        ]
+    }
+}
