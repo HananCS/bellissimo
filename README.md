@@ -2,4 +2,4 @@
 
 A VS Code Theme.
 
-![Bellissimo](./images/gh.png)
+![Bellissimo](./images/the.png)
